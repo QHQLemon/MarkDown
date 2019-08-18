@@ -21,9 +21,9 @@
 不加任何修饰符号即为一个段落。
 
 ## 3. 强调
-（1）*倾斜*（* *）
-（2）**加粗**（ ** ** ）
-（3）***加粗并且倾斜***（*** ***）
+（1）*倾斜*（* *）  
+（2）**加粗**（ ** ** ）  
+（3）***加粗并且倾斜***（*** ***）  
 （4）~~删除线~~（~~ ~~）
 
 ## 4. 列表 
@@ -33,8 +33,8 @@
 ```
 实例：
 - html
-    + 哈哈
-    + 哼哼
+    - 哈哈
+    - 哼哼
 - css
 - javascript
 
@@ -82,12 +82,17 @@
 
 ```
 ![alt](utl, title)
-
+```
+```
 ![图片链接](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1566104102358&di=c05b3de005c8de858830a3a6296efa0f&imgtype=0&src=http%3A%2F%2Fwx1.sinaimg.cn%2Flarge%2F7eba71a1gy1g5x0ouira1j20hs0a0wno.jpg 'ggdd')
 
+```
+![图片链接](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1566104102358&di=c05b3de005c8de858830a3a6296efa0f&imgtype=0&src=http%3A%2F%2Fwx1.sinaimg.cn%2Flarge%2F7eba71a1gy1g5x0ouira1j20hs0a0wno.jpg 'ggdd')
+
+```
 ![yuzuru hanyu](./img/timg.jpg 'yuzuru')
 ```
-![图片链接](https://imgconvert.csdnimg.cn/aHR0cHM6Ly90aW1nc2EuYmFpZHUuY29tL3RpbWc)
+![yuzuru hanyu](./img/timg.jpg 'yuzuru')
 
 
 
